@@ -1,5 +1,5 @@
 # A propos de moi :
- Développeur Junior en apprentissage - actuellement en BTS SIO (Bac+2 Services Informatiques aux Organisations)
+ Développeur Junior en apprentissage - actuellement en BTS SIO option SLAM
 
 
 # Tech Stack:
