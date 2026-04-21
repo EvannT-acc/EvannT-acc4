@@ -1,6 +1,6 @@
-# A propos de moi
-Développeur Junior en apprentissage - actuellement en **BTS SIO option SLAM**  
-Passionné par le développement logiciel, l’automatisation de données et l’architecture d’applications.
+# About me
+                    IT student passionate about software development.
+                                Always learning and building new projects.
 
 ---
 
