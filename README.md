@@ -3,8 +3,4 @@ IT student passionate about software development.
 Always learning and building new projects.
 
 ---
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,php,js,html,css,dotnet,nodejs,flutter,mysql,apache,nginx,git,github,npm,figma&theme=dark" />
-  </a>
-</p>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?style=plastic&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/javascript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
