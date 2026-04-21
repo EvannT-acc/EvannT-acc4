@@ -14,10 +14,10 @@
 
 <div align="center">
 
-# TON NOM ICI
-**Junior Software Developer | BTS SIO SLAM Student**
-  
-*Passionné par le développement logiciel, l’automatisation et l’architecture d’applications.*
+# Evann TERRIER
+
+*𝘐𝘛 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘢𝘣𝘰𝘶𝘵 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵. *
+*𝘈𝘭𝘸𝘢𝘺𝘴 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘯𝘦𝘸 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴. *
 
 </div>
 
@@ -45,8 +45,8 @@
 
 <div align="center">
 
-### 📊 My GitHub Activity
-<a href="https://github.com/TON_PSEUDO_GITHUB">
+### My GitHub Activity
+<a href="https://github.com/EvannT-acc">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_PSEUDO_GITHUB&theme=github-compact&days=15&hide_border=true&height=500&point=239120&line=239120&custom_title=Mes%20Contributions&area_color=239120" alt="Activity Graph" />
 </a>
 
